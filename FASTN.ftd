@@ -1,0 +1,17 @@
+-- import: fastn
+
+-- fastn.package: portfolio-project
+
+-- fastn.dependency: fastn-community.github.io/misty-gray
+-- fastn.dependency: fastn-community.github.io/misty-gray/landing
+-- fastn.dependency: fastn-community.github.io/forest-cs
+
+
+
+-- fastn.sitemap:
+
+# Home: /
+# About: /
+# Experience: /
+# Projects: /
+# Contact: /
